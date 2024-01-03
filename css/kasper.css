@@ -865,7 +865,7 @@ q::after {
 
 .price .box {
   text-align: center;
-  background: #fcfcfc;
+  background: #eee;
 }
 
 .price .box .head {
@@ -934,8 +934,8 @@ q::after {
   padding: 20px;
   margin: 30px auto;
   width: fit-content;
-  color: rgb(51, 51, 255);
   cursor: pointer;
+  color: var(--main-color);
   font-weight: normal;
 }
 
